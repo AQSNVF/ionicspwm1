@@ -1,0 +1,7 @@
+{
+  "name": "spwm1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
